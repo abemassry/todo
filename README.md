@@ -9,3 +9,7 @@ A todo list for coding projects
 - Try Meteor.js
 - ~~Try OpenSCAD~~
 - Try this [Angular Tutorial](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
+- Try WebAudio
+- Try Haskell
+- Try SASS and LESS
+- Try nimrod
