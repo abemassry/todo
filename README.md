@@ -6,10 +6,10 @@ A todo list for coding projects
 * [x] Try [AngularJS](http://angularjs.org)
 * [x] Try [Objective-C](http://tryobjectivec.codeschool.com/)
 * [ ] Try PeerJS
-* [ ] Try Meteor.js
+* [x] Try Meteor.js
 * [x] Try OpenSCAD
-* [ ] Try this [Angular Tutorial](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
-* [ ] Try WebAudio
+* [x] Try this [Angular Tutorial](http://www.thinkster.io/pick/GUIDJbpIie/angularjs-tutorial-learn-to-build-modern-web-apps)
+* [x] Try WebAudio
 * [x] Try Haskell
-* [ ] Try SASS and LESS
+* [x] Try SASS and LESS
 * [ ] Try nimrod
